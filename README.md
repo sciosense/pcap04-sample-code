@@ -36,8 +36,7 @@ It is assumed that
    
 - The STM32CubeL4GettingStarted document is at its default location. Normally this is `C:\Users\[your_username]\STM32Cube\Repository\STM32Cube_FW_L4_xx.yy.z\Documentation`.
 
-You might need to add your board to the STM32CubeIDE. This library was tested with the [STM32 Nucleo-64 development board with STM32L476RG MCU](https://www.st.com/en/evaluation-tools/nucleo-l476rg.html#overview)
-(https://www.st.com/en/microcontrollers-microprocessors/stm32l476rg.html). 
+You might need to add your board to the STM32CubeIDE. This library was tested with the [STM32 Nucleo-64 development board with STM32L476RG MCU](https://www.st.com/en/evaluation-tools/nucleo-l476rg.html#overview). 
 For the installation of the STM32L476RG in the STM32CubeIDE, see [STM32L476RG Installation](https://www.st.com/en/development-tools/stm32cubemx.html#documentation)
 
 
