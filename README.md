@@ -105,10 +105,3 @@ To build a sample code
 
 ## Contributing
 Contributions in the form of issue opening or creating pull requests are very welcome!
-
-## Acknowledgements
-This library is developed for ScioSense by [at² GmbH](https://www.at2-software.com/en/) 
-
-@at2software
-
-### ScioSense is a Joint Venture of ams AG 
