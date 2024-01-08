@@ -12,8 +12,7 @@ Proximity sensors, Acceleration sensors, Inclination sensors, Humidity sensors,
 Dewpoint sensors, Tilt sensors, Angle sensors, Wireless applications.
 
 ## Links
-* [Datasheet](https://www.sciosense.com/wp-content/uploads/documents/PCAP04-Datasheet.pdf)
-* [Application notes](https://www.sciosense.com/products/sensor-interfaces/pcap04-capacitance-to-digital-converter/#documents)
+* Latest datasheet and application notes are on [ScioSense site](https://www.sciosense.com/pcap04-capacitance-to-digital-converter/#downloads)
 * Buy the PCap04 on [Mouser](https://www2.mouser.com/c/?series=PCAP04%20VERSION%202) or [Digikey](https://www.digikey.com/en/products/filter/data-acquisition/adcs-dacs-special-purpose/768?s=N4IgTCBcDaIA4GMCGcAMAWAtAIwI4gF0BfIA)
 * Buy the PCap04 evaluation kit on [Mouser](https://www2.mouser.com/ProductDetail/ScioSense/PCap04-EVA-KIT-V2.0?qs=YCa%2FAAYMW01pCMwt%2Fq6O1Q%3D%3D)
 * [Further information about the PCap04](https://www.sciosense.com/products/sensor-interfaces/pcap04-capacitance-to-digital-converter/)  
